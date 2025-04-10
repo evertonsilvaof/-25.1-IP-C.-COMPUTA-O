@@ -1,4 +1,4 @@
-amigos = ("Laila", "Rael", "Ismael", "Antônio", "ismael")
+amigos = ["Laila", "Rael", "Ismael", "Antônio", "ismael"]
 
-for amigos in amigos:
-    print (amigos)
+for amigo in amigos:
+    print (amigo)
